@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854936041917",
+    "project_id": "estore-9c1dc",
+    "storage_bucket": "estore-9c1dc.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854936041917:android:c93bd644c1d484d5053ad4",
+        "android_client_info": {
+          "package_name": "com.example.estore"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrsJr43WhxxXo1zVOddh-JRZvaxINdI0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
